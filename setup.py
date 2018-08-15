@@ -23,10 +23,10 @@ setup(
     },
     install_requires=REQUIRED,
     setup_requires=REQUIRED,
-    license='MIT',
-    version='1.0',
+    license='GPLv3',
+    version='1.0.0',
     classifiers=[
-        'License :: OSI Approved :: MIT License',
+        'License :: OSI Approved :: GNU General Public License v3 (GPLv3)',
         'Programming Language :: Python',
         'Programming Language :: Python :: 3.6',
     ],
