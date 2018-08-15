@@ -22,6 +22,7 @@ setup(
         'console_scripts': ['gioia=gioia.gioia:main'],
     },
     install_requires=REQUIRED,
+    setup_requires=REQUIRED,
     license='MIT',
     version='1.0',
     classifiers=[
